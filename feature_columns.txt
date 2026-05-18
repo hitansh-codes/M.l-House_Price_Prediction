@@ -1,0 +1,6 @@
+area
+bedrooms
+bathrooms
+age
+location_score
+garage
